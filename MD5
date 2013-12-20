@@ -1,0 +1,16 @@
+76e41dd1213e184ad08865aa78434187 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+d5d88bf8030c4561a9b2c0a1574e10a9 *R/clopper.pearson.ci.R
+ce750561e5fda977a2434cdb965b1b24 *R/cm.clopper.pearson.ci.R
+9ac822dd26beca64dac5d944991cee12 *R/cm.n.clopper.pearson.R
+9325d6e11f093b11c5d36631b47a864e *R/dgbinom.R
+be5b5659062f4282f504e2fbb16da2a8 *R/n.clopper.pearson.R
+f59da5c58c3e279a1220e2f154f637d5 *R/pgbinom.R
+2c07785c534a8464553f68c8c2e2782b *R/qgbinom.R
+0049e6d728c63f6a0d31e630dda72e18 *R/rgbinom.R
+0d4fa185abd17829d5a6d0f255db9200 *man/GenBinom-package.Rd
+e4a071603653f1c5b52469341f8f5392 *man/clopper.pearson.ci.Rd
+c065279f6ee9d8f178ba9d623c1d5b19 *man/cm.clopper.pearson.ci.Rd
+8ceb7a9e5e57264414d633b0c52340c0 *man/cm.n.clopper.pearson.Rd
+6adb457d83a1cceeafcdee2ec3d51c01 *man/dgbinom.Rd
+a1f198476cceffda51082d4e8e65c1d6 *man/n.clopper.pearson.Rd
