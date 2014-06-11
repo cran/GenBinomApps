@@ -48,7 +48,7 @@ See the references for further information.
 A data frame containing the kind of the confidence interval, upper and lower limits and the used significance level \code{alpha}.
 }
 \references{
-D.Kurz, H.Lewitschnig, J.Pilz, \emph{Decision-Theoretical Model for Failures which are Tackled by Countermeasures}, IEEE Transactions on Reliability, 2013, submitted.
+D.Kurz, H.Lewitschnig, J.Pilz, \emph{Decision-Theoretical Model for Failures which are Tackled by Countermeasures}, IEEE Transactions on Reliability, Vol. 63, No. 2, June 2014.
 }
 
 

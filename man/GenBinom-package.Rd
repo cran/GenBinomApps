@@ -9,7 +9,7 @@ Clopper-Pearson Confidence Interval and Generalized Binomial Distribution
 Density, distribution function, quantile function and random generation for the Generalized Binomial Distribution. Also included are functions to compute the Clopper-Pearson confidence interval limits for the standard case, for an enhanced model and the required sample size for a given target probability for both models.
 }
 \details{
-This package originates from semiconductor manufacturing but can also be used for other purposes. The functions are based on the paper \emph{Decision-Theoretical Model for Failures which are Tackled by Countermeasures}, Kurz et al. (2013).
+This package originates from semiconductor manufacturing but can also be used for other purposes. The functions are based on the paper \emph{Decision-Theoretical Model for Failures which are Tackled by Countermeasures}, Kurz et al. (2014).
 
 
 The generalized binomial distribution is defined as the sum of independent, not identically binomial distributed random variables. That means they have different success probabilities (and, in case, different sample sizes).
@@ -27,7 +27,7 @@ See the examples for the results.
 
 
 Consider now a burn-in study in which \eqn{k} failures are observed. The number of failures  is binomially distributed. Thus the Clopper-Pearson confidence interval limits can be used to obtain a confidence interval for the failure probability. 
-If failures occur, countermeasures should be implemented with a type specific effectivity. Consider the case of different failure types. That leads to more than one countermeasure. Each countermeasure can have a different effectivity. The probability for solving a certain number of failures can be computed with the generalized binomial distribution. It gives the likelihoods for various possible outcome scenarios, if the countermeasures would have been introduced from the beginning on. Based on the model in Kurz et al. (2013), confidence intervals can be computed.
+If failures occur, countermeasures should be implemented with a type specific effectivity. Consider the case of different failure types. That leads to more than one countermeasure. Each countermeasure can have a different effectivity. The probability for solving a certain number of failures can be computed with the generalized binomial distribution. It gives the likelihoods for various possible outcome scenarios, if the countermeasures would have been introduced from the beginning on. Based on the model in Kurz et al. (2014), confidence intervals can be computed.
 }
 
 
@@ -45,7 +45,7 @@ The generalized binomial distribution described here is also known as Poisson-bi
 
 
 \references{
-D.Kurz, H.Lewitschnig, J.Pilz, \emph{Decision-Theoretical Model for Failures which are Tackled by Countermeasures}, IEEE Transactions on Reliability, 2013, submitted.
+D.Kurz, H.Lewitschnig, J.Pilz, \emph{Decision-Theoretical Model for Failures which are Tackled by Countermeasures}, IEEE Transactions on Reliability, Vol. 63, No. 2, June 2014.
 
 K.J. Klauer, \emph{Kriteriumsorientierte Tests}, Verlag fuer Psychologie, Hogrefe, 1987, Goettingen, p. 208 ff.
 

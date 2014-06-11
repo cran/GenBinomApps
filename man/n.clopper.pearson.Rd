@@ -41,7 +41,7 @@ Provides the required sample size with respect to the upper Clopper-Pearson limi
 The value for the required sample size.
 }
 \references{
-D.Kurz, H.Lewitschnig, J.Pilz, \emph{Decision-Theoretical Model for Failures which are Tackled by Countermeasures}, IEEE Transactions on Reliability, 2013, submitted.
+D.Kurz, H.Lewitschnig, J.Pilz, \emph{Decision-Theoretical Model for Failures which are Tackled by Countermeasures}, IEEE Transactions on Reliability, Vol. 63, No. 2, June 2014.
 }
 
 

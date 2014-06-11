@@ -60,7 +60,7 @@ The quantile is defined as the smallest value \eqn{x} such that \eqn{ F(x) \geq 
 \code{dgbinom} gives the pmf, \code{pgbinom} gives the cdf, \code{qgbinom} gives the quantile function and \code{rgbinom} generates random deviates.
 }
 \references{
-D.Kurz, H.Lewitschnig, J.Pilz, \emph{Decision-Theoretical Model for Failures which are Tackled by Countermeasures}, IEEE Transactions on Reliability, 2013, submitted.
+D.Kurz, H.Lewitschnig, J.Pilz, \emph{Decision-Theoretical Model for Failures which are Tackled by Countermeasures}, IEEE Transactions on Reliability, Vol. 63, No. 2, June 2014.
 
 K.J. Klauer, \emph{Kriteriumsorientierte Tests}, Verlag fuer Psychologie, Hogrefe, 1987, Goettingen, p. 208 ff.
 
