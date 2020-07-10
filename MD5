@@ -1,9 +1,9 @@
-6a52bcb1d8f858028cf2301954289297 *DESCRIPTION
-df390c53434517b304ac5db487184641 *NAMESPACE
+4c3c4eca340ad3b22b0d964836fce6c5 *DESCRIPTION
+992acdb59afaa60b3feec42a75e3fcec *NAMESPACE
 d5d88bf8030c4561a9b2c0a1574e10a9 *R/clopper.pearson.ci.R
 ce750561e5fda977a2434cdb965b1b24 *R/cm.clopper.pearson.ci.R
 9ac822dd26beca64dac5d944991cee12 *R/cm.n.clopper.pearson.R
-9325d6e11f093b11c5d36631b47a864e *R/dgbinom.R
+ad03eb6d77c837433cb82021e72f5a8e *R/dgbinom.R
 be5b5659062f4282f504e2fbb16da2a8 *R/n.clopper.pearson.R
 f59da5c58c3e279a1220e2f154f637d5 *R/pgbinom.R
 2c07785c534a8464553f68c8c2e2782b *R/qgbinom.R
