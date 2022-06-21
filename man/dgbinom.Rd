@@ -42,7 +42,7 @@ logical; if TRUE (default), probabilities are \eqn{P[X\leq x]}{P[X\le x]}, other
 \details{
 The generalized binomial distribution with \code{size}=\eqn{c(n_{1},\dots ,n_{r})}{c(n1,\dots ,nr)} and \code{prob}=\eqn{c(p_ {1},...,p_{r})}{c(p1,...,pr)} is the sum of \eqn{r} binomially distributed random variables with different \eqn{p_{i}}{pi} (and, in case, with different \eqn{n_{i}}{ni}):  
 
-Z=\eqn{\sum_{i=1}^{r} Z_{i}}{\sum Zi}, \eqn{ }{ }  \eqn{Z} ~ \eqn{gbinom}(\code{size},\code{prob}), with \eqn{Z_{i}}{Zi} ~ \eqn{binom(n_{i},p_{i}),\ i=1,\dots ,r}{binom(ni,pi), i=1,...,r}.
+Z=\eqn{\sum_{i=1}^{r} Z_{i}}{\sum Zi}, \verb{} \eqn{Z} ~ \eqn{gbinom}(\code{size},\code{prob}), with \eqn{Z_{i}}{Zi} ~ \eqn{binom(n_{i},p_{i}),\ i=1,\dots ,r}{binom(ni,pi), i=1,...,r}.
 
 Since the sum of Bernoulli distributed random variables is binomially distributed, \eqn{Z} can be also defined as: 
 
