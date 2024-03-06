@@ -31,7 +31,7 @@ A data frame containing the kind of the confidence interval, upper and lower lim
 \references{
 D.Kurz, H.Lewitschnig, J.Pilz, \emph{Decision-Theoretical Model for Failures which are Tackled by Countermeasures}, IEEE Transactions on Reliability, Vol. 63, No. 2, June 2014.
 
-Thulin, M., \emph{The cost of using exact confidence intervals for a binomial proportion}, Electronic Journal of Statistics, vol. 8, pp. 817-840, 2014
+Thulin, Mans, \emph{The cost of using exact confidence intervals for a binomial proportion}, Electronic Journal of Statistics, vol. 8, pp. 817-840, 2014.
 
 C.J.Clopper and E.S. Pearson, \emph{The use of confidence or fiducial limits illustrated in the case of the binomial}, Biometrika, vol. 26, pp. 404-413, 1934.
 }

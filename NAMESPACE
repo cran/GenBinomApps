@@ -1,2 +1,2 @@
-import(stats)
 exportPattern("^[[:alpha:]]+")
+importFrom("stats", "pbeta", "qbeta", "runif", "uniroot")

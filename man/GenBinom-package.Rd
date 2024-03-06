@@ -1,5 +1,5 @@
 \name{GenBinomApps-package}
-\alias{GenbinomApps-package}
+\alias{GenBinomApps-package}
 \alias{GenBinomApps}
 \docType{package}
 \title{
